@@ -1,4 +1,4 @@
-# 📊 Análisis de Ventas e Inventarios para Optimización de Stock
+# 📊 Análisis de Ventas para Optimización de Stock
 
 ## 📌 Descripción
 Proyecto de análisis de datos enfocado en optimizar la gestión de inventarios mediante el análisis de ventas históricas.
