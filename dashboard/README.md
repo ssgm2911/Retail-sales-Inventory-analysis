@@ -1,5 +1,9 @@
-## Dashboard Power BI
+## Dashboard Ventas & Stock
 
-- Ventas totales
-- Stock crítico
-- Tendencias mensuales
+Este dashboard muestra:
+
+- **Ventas por categoría**  
+- **Productos con riesgo de quiebre de stock**  
+- **Tendencia mensual de ventas**
+
+Se usó Power BI para mostrar insights accionables para toma de decisiones.
